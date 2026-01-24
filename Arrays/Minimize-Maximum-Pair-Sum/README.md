@@ -19,3 +19,32 @@ This greedy approach ensures the minimum possible maximum sum.
 
 ## ✅ Example
 Input:
+nums = [3,5,2,3]
+
+
+Sorted:
+[2,3,3,5]
+
+
+Pairs:
+- (2,5) → 7  
+- (3,3) → 6  
+
+Output:
+7
+
+
+---
+
+## ⏱ Complexity
+- **Time Complexity:** `O(n log n)`
+- **Space Complexity:** `O(1)` (excluding sorting)
+
+---
+
+## 🧠 Key Learning
+- Greedy strategy
+- Two pointer technique
+- Pairing optimization
+
+---
