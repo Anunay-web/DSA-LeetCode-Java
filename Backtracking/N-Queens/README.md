@@ -19,9 +19,9 @@ Place `n` queens on an `n x n` chessboard such that no two queens attack each ot
 - **O(N²)** for chessboard + recursion stack
 
 ## Example (n = 4)
-.Q..
-...Q
-Q...
+.Q.. <br>
+...Q <br>
+Q... <br>
 ..Q.
 
 
