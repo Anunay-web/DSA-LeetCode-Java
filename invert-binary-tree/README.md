@@ -1,0 +1,18 @@
+# Day 3: Invert Binary Tree
+
+**Difficulty:** Easy
+
+## Problem
+
+Given the root of a binary tree, invert the tree (mirror it) and return its root.
+
+## Example
+
+```
+Input: root = [4,2,7,1,3,6,9]
+Output: [4,7,2,9,6,3,1]
+```
+
+## Files
+
+- `Solution.java` - Java solution stub for this problem
