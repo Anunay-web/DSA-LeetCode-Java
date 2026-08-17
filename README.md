@@ -157,4 +157,8 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0146-lru-cache) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
