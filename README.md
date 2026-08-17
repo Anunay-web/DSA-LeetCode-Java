@@ -147,6 +147,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0146-lru-cache) |
 ## Design
 |  |
