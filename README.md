@@ -135,6 +135,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0200-number-of-islands) |
 | [0560-subarray-sum-equals-k](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0733-flood-fill) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2206-divide-array-into-equal-pairs) |
@@ -170,14 +171,17 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0733-flood-fill) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0733-flood-fill) |
 ## Simulation
 |  |
@@ -187,4 +191,8 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 |  |
 | ------- |
 | [2206-divide-array-into-equal-pairs](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2206-divide-array-into-equal-pairs) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
