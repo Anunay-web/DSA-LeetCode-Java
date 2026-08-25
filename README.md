@@ -124,6 +124,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0560-subarray-sum-equals-k](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2206-divide-array-into-equal-pairs) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
@@ -141,6 +142,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [2206-divide-array-into-equal-pairs](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2206-divide-array-into-equal-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Bit Manipulation
 |  |
 | ------- |
