@@ -150,6 +150,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -180,6 +181,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [2235-add-two-integers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2235-add-two-integers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Depth-First Search
 |  |
 | ------- |
