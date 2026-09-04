@@ -151,6 +151,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3903-smallest-stable-index-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -161,6 +162,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0724-find-pivot-index) |
+| [3903-smallest-stable-index-i](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3903-smallest-stable-index-i) |
 ## Linked List
 |  |
 | ------- |
