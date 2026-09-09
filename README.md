@@ -123,6 +123,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0146-lru-cache](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0146-lru-cache) |
 | [0451-sort-characters-by-frequency](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2206-divide-array-into-equal-pairs) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -144,6 +145,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0560-subarray-sum-equals-k](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0733-flood-fill) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2206-divide-array-into-equal-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -163,6 +165,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3903-smallest-stable-index-i](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3904-smallest-stable-index-ii) |
 ## Linked List
