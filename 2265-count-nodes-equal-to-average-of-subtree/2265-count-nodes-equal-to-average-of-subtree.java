@@ -18,9 +18,18 @@ class Solution {
     int size = 0;
     int count = 0;
     public int averageOfSubtree(TreeNode root) {
-        averageCheck(root);
+        if(root == null){
+            return 0;
+        }
+        total(root);
+        if((total / size) == root.val){
+            count++;
+        }
+        total = 0;
+        size = 0;
+        averageOfSubtree(root.left);
+        averageOfSubtree(root.right);
         return count;
-
 
     }
     public void total(TreeNode root){
@@ -31,18 +40,5 @@ class Solution {
         total(root.left);
         total(root.right);
         size++;
-    }
-    public void averageCheck(TreeNode root){
-        if(root == null){
-            return;
-        }
-        total(root);
-        if((total / size) == root.val){
-            count++;
-        }
-        total = 0;
-        size = 0;
-        averageCheck(root.left);
-        averageCheck(root.right);
     }
 }
