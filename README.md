@@ -187,6 +187,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0836-rectangle-overlap) |
 | [2235-add-two-integers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2235-add-two-integers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3870-count-commas-in-range) |
@@ -276,4 +277,8 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
