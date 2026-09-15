@@ -201,6 +201,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0210-course-schedule-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -209,6 +210,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0210-course-schedule-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Matrix
 |  |
 | ------- |
@@ -236,6 +238,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0451-sort-characters-by-frequency) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -249,6 +252,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -281,4 +285,12 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0836-rectangle-overlap) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
