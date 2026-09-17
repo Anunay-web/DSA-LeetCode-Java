@@ -144,6 +144,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
@@ -295,6 +296,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
