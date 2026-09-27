@@ -146,6 +146,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0119-pascals-triangle-ii) |
@@ -203,6 +204,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0048-rotate-image) |
 | [0836-rectangle-overlap](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0836-rectangle-overlap) |
 | [2235-add-two-integers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2235-add-two-integers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -232,6 +234,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0733-flood-fill) |
