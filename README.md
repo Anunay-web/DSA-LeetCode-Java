@@ -121,6 +121,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0451-sort-characters-by-frequency) |
@@ -155,6 +156,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0118-pascals-triangle](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0283-move-zeroes) |
@@ -258,6 +260,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0785-is-graph-bipartite) |
 ## Sorting
