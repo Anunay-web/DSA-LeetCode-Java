@@ -149,6 +149,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0054-spiral-matrix) |
@@ -339,6 +340,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0283-move-zeroes) |
 | [1089-duplicate-zeros](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1089-duplicate-zeros) |
