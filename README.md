@@ -160,6 +160,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0119-pascals-triangle-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0229-majority-element-ii) |
@@ -336,6 +337,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0118-pascals-triangle](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0152-maximum-product-subarray) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
