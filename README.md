@@ -232,6 +232,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | ------- |
 | [0200-number-of-islands](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0210-course-schedule-ii) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0733-flood-fill](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -242,6 +243,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | ------- |
 | [0200-number-of-islands](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0210-course-schedule-ii) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0733-flood-fill](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -314,11 +316,13 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 ## Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0897-increasing-order-search-tree](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0897-increasing-order-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0897-increasing-order-search-tree](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0897-increasing-order-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
@@ -365,6 +369,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0493-reverse-pairs) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0897-increasing-order-search-tree](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0897-increasing-order-search-tree) |
 ## Quicksort
 |  |
