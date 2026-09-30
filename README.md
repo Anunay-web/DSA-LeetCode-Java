@@ -168,6 +168,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0229-majority-element-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0733-flood-fill) |
@@ -363,6 +364,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 ## Binary Search Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0493-reverse-pairs) |
 | [0897-increasing-order-search-tree](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0897-increasing-order-search-tree) |
 ## Quicksort
 |  |
@@ -382,8 +384,29 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0053-maximum-subarray) |
+| [0493-reverse-pairs](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0493-reverse-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0229-majority-element-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
