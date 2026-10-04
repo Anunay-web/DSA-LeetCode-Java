@@ -140,6 +140,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0020-valid-parentheses](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0032-longest-valid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -297,6 +298,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0678-valid-parenthesis-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Graph Theory
 |  |
@@ -349,6 +351,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0119-pascals-triangle-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0152-maximum-product-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
@@ -367,6 +370,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0678-valid-parenthesis-string) |
 | [0897-increasing-order-search-tree](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0897-increasing-order-search-tree) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -391,6 +395,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
