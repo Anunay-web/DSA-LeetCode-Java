@@ -178,6 +178,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0560-subarray-sum-equals-k](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0733-flood-fill) |
+| [0875-koko-eating-bananas](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1089-duplicate-zeros](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1089-duplicate-zeros) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -388,6 +389,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0493-reverse-pairs](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0493-reverse-pairs) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0875-koko-eating-bananas](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0875-koko-eating-bananas) |
 | [0897-increasing-order-search-tree](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0897-increasing-order-search-tree) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1539-kth-missing-positive-number) |
