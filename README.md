@@ -188,6 +188,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2206-divide-array-into-equal-pairs) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -343,6 +344,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
