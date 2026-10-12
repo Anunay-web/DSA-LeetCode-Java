@@ -182,6 +182,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1089-duplicate-zeros](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1089-duplicate-zeros) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1539-kth-missing-positive-number) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -396,6 +397,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0875-koko-eating-bananas](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0875-koko-eating-bananas) |
 | [0897-increasing-order-search-tree](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0897-increasing-order-search-tree) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1539-kth-missing-positive-number) |
 ## Quicksort
 |  |
