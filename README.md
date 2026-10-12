@@ -134,6 +134,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |
@@ -195,6 +196,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3903-smallest-stable-index-i) |
@@ -235,6 +237,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [2235-add-two-integers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2235-add-two-integers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3870-count-commas-in-range](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3875-construct-uniform-parity-array-i) |
