@@ -196,6 +196,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -297,6 +298,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0229-majority-element-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0451-sort-characters-by-frequency) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -312,6 +314,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0678-valid-parenthesis-string](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0678-valid-parenthesis-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Graph Theory
 |  |
 | ------- |
