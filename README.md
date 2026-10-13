@@ -174,6 +174,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0217-contains-duplicate](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
@@ -211,6 +212,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -312,6 +314,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0678-valid-parenthesis-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -369,6 +372,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0119-pascals-triangle-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
@@ -399,6 +403,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0410-split-array-largest-sum](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0493-reverse-pairs) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0875-koko-eating-bananas](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0875-koko-eating-bananas) |
