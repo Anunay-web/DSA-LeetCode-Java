@@ -1,37 +1,38 @@
 class Solution {
     public int splitArray(int[] nums, int k) {
-        if(k > nums.length){
-            return -1;
-        }
-        int low = 0;
-        int high = 0;
-        for(int n :  nums){
+        int low = 0, high = 0;
+
+        for (int n : nums) {
             low = Math.max(low, n);
             high += n;
         }
-        while(low <= high){
-            int mid = (low + high) / 2;
-            if(calc(mid, nums) > k){
+
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+
+            if (calc(mid, nums) > k) {
                 low = mid + 1;
-            }
-            else{
+            } else {
                 high = mid - 1;
             }
         }
+
         return low;
     }
-    public static int calc(int n, int[] nums){
-        int x = 1;
+
+    public int calc(int capacity, int[] nums) {
+        int subarrays = 1;
         int sum = 0;
-        for(int i = 0; i < nums.length; i++){
-            if(sum + nums[i] > n){
-                sum = nums[i];
-                x++;
-            }
-            else{
-                sum += nums[i];
+
+        for (int n : nums) {
+            if (sum + n > capacity) {
+                subarrays++;
+                sum = n;
+            } else {
+                sum += n;
             }
         }
-        return x;
+
+        return subarrays;
     }
 }
