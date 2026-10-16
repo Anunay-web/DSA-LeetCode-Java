@@ -128,6 +128,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0451-sort-characters-by-frequency](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2206-divide-array-into-equal-pairs) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -148,6 +149,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -291,6 +293,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | ------- |
 | [0229-majority-element-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2206-divide-array-into-equal-pairs) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Union-Find
