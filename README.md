@@ -192,6 +192,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1539-kth-missing-positive-number) |
+| [1550-three-consecutive-odds](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1550-three-consecutive-odds) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1901-find-a-peak-element-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2089-find-target-indices-after-sorting-array) |
