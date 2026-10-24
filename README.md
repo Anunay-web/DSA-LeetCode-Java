@@ -152,6 +152,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
@@ -250,6 +251,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0836-rectangle-overlap](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0836-rectangle-overlap) |
 | [1952-three-divisors](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2409-count-days-spent-together) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
