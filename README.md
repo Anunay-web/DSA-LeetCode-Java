@@ -232,6 +232,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0146-lru-cache) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -246,6 +247,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0050-powx-n) |
 | [0836-rectangle-overlap](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0836-rectangle-overlap) |
@@ -372,6 +374,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0050-powx-n) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
