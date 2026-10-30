@@ -140,6 +140,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0032-longest-valid-parentheses) |
@@ -163,6 +164,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0053-maximum-subarray) |
@@ -511,4 +513,8 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0022-generate-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
