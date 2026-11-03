@@ -256,6 +256,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0050-powx-n](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0050-powx-n) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0836-rectangle-overlap) |
+| [1922-count-good-numbers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1922-count-good-numbers) |
 | [1952-three-divisors](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2409-count-days-spent-together) |
@@ -382,6 +383,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1922-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
