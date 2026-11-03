@@ -182,6 +182,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0229-majority-element-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0410-split-array-largest-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
@@ -253,6 +254,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0002-add-two-numbers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0050-powx-n) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0836-rectangle-overlap) |
 | [1952-three-divisors](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2235-add-two-integers) |
