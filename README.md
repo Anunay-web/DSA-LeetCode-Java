@@ -173,6 +173,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0054-spiral-matrix](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0119-pascals-triangle-ii) |
@@ -225,6 +226,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0078-subsets) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2206-divide-array-into-equal-pairs) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Prefix Sum
@@ -524,6 +526,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0022-generate-parentheses](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0216-combination-sum-iii) |
 ## Trie
 |  |
