@@ -198,6 +198,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1089-duplicate-zeros) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1550-three-consecutive-odds) |
@@ -332,6 +333,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0217-contains-duplicate](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0451-sort-characters-by-frequency) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -424,6 +426,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0075-sort-colors](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0283-move-zeroes) |
 | [1089-duplicate-zeros](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1089-duplicate-zeros) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
@@ -449,6 +452,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0897-increasing-order-search-tree](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0897-increasing-order-search-tree) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1901-find-a-peak-element-ii) |
