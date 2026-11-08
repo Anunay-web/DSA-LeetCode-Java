@@ -197,6 +197,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1089-duplicate-zeros) |
+| [1267-count-servers-that-communicate](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -286,6 +287,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0785-is-graph-bipartite](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0897-increasing-order-search-tree](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0897-increasing-order-search-tree) |
+| [1267-count-servers-that-communicate](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -296,6 +298,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0733-flood-fill](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1267-count-servers-that-communicate](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1267-count-servers-that-communicate) |
 ## Matrix
 |  |
 | ------- |
@@ -304,6 +307,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0073-set-matrix-zeroes](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0733-flood-fill) |
+| [1267-count-servers-that-communicate](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1267-count-servers-that-communicate) |
 | [1901-find-a-peak-element-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
@@ -317,6 +321,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | ------- |
 | [0229-majority-element-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0451-sort-characters-by-frequency) |
+| [1267-count-servers-that-communicate](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1267-count-servers-that-communicate) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2206-divide-array-into-equal-pairs) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -326,6 +331,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0128-longest-consecutive-sequence](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0785-is-graph-bipartite) |
+| [1267-count-servers-that-communicate](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1267-count-servers-that-communicate) |
 ## Sorting
 |  |
 | ------- |
