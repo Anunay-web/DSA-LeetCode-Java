@@ -18,8 +18,6 @@ class Solution {
             else{
                 l1 = 1;
                 l2 = 1;
-                l1max = Math.max(l1, l1max);
-                l2max = Math.max(l2, l2max);
             }
 
         }
