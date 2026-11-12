@@ -214,6 +214,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
