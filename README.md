@@ -144,6 +144,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0020-valid-parentheses](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0032-longest-valid-parentheses) |
+| [0132-palindrome-partitioning-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0132-palindrome-partitioning-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0856-score-of-parentheses) |
@@ -418,6 +419,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0118-pascals-triangle](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0132-palindrome-partitioning-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0678-valid-parenthesis-string) |
