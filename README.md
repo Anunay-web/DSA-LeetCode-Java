@@ -266,6 +266,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0050-powx-n](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0050-powx-n) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0836-rectangle-overlap) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1922-count-good-numbers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1922-count-good-numbers) |
 | [1952-three-divisors](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2235-add-two-integers) |
