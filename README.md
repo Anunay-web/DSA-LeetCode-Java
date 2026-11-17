@@ -248,6 +248,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0237-delete-node-in-a-linked-list) |
@@ -405,6 +406,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1922-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3483-unique-3-digit-even-numbers) |
