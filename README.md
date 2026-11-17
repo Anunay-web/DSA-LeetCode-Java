@@ -248,6 +248,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0146-lru-cache) |
@@ -357,6 +358,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Bucket Sort
@@ -500,6 +502,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0053-maximum-subarray) |
 | [0493-reverse-pairs](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0493-reverse-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -519,6 +522,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -556,4 +560,8 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0014-longest-common-prefix) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
