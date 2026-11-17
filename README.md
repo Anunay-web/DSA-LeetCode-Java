@@ -253,6 +253,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0237-delete-node-in-a-linked-list](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0328-odd-even-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -443,6 +444,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0283-move-zeroes](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0283-move-zeroes) |
 | [1089-duplicate-zeros](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
