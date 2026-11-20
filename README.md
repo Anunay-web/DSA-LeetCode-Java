@@ -122,6 +122,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0229-majority-element-ii) |
@@ -253,6 +254,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0023-merge-k-sorted-lists](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0328-odd-even-linked-list) |
