@@ -174,6 +174,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0048-rotate-image](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0078-subsets) |
@@ -375,6 +376,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0678-valid-parenthesis-string) |
@@ -438,6 +440,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0022-generate-parentheses](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
