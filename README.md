@@ -176,6 +176,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0053-maximum-subarray](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0075-sort-colors) |
@@ -360,6 +361,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0229-majority-element-ii) |
@@ -507,6 +509,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0455-assign-cookies) |
 ## Bubble Sort
