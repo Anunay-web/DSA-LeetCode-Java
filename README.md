@@ -208,6 +208,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [1089-duplicate-zeros](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1089-duplicate-zeros) |
 | [1267-count-servers-that-communicate](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1539-kth-missing-positive-number) |
@@ -250,6 +251,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0560-subarray-sum-equals-k](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1352-product-of-the-last-k-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3904-smallest-stable-index-ii) |
 ## Linked List
@@ -269,6 +271,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0146-lru-cache) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1352-product-of-the-last-k-numbers) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -281,6 +284,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0050-powx-n](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0050-powx-n) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0836-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1352-product-of-the-last-k-numbers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1922-count-good-numbers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1922-count-good-numbers) |
 | [1952-three-divisors](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1952-three-divisors) |
@@ -586,4 +590,8 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0023-merge-k-sorted-lists) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
