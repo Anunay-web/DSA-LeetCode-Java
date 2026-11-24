@@ -223,6 +223,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2206-divide-array-into-equal-pairs) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2643-row-with-maximum-ones](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -255,6 +256,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0724-find-pivot-index](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1352-product-of-the-last-k-numbers) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3903-smallest-stable-index-i](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3904-smallest-stable-index-ii) |
 ## Linked List
@@ -374,6 +376,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
@@ -382,6 +385,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0023-merge-k-sorted-lists](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -397,6 +401,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0860-lemonade-change](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0860-lemonade-change) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -480,6 +485,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Stack
 |  |
