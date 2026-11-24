@@ -165,6 +165,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Array
 |  |
 | ------- |
@@ -228,6 +229,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -292,6 +294,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [2235-add-two-integers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2409-count-days-spent-together) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -440,6 +443,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | ------- |
 | [1952-three-divisors](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1952-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
@@ -565,6 +569,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1952-three-divisors) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prime Factorization
 |  |
 | ------- |
