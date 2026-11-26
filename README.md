@@ -210,6 +210,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [1089-duplicate-zeros](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1089-duplicate-zeros) |
 | [1267-count-servers-that-communicate](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -338,6 +339,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0200-number-of-islands](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0733-flood-fill) |
 | [1267-count-servers-that-communicate](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1267-count-servers-that-communicate) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1572-matrix-diagonal-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2643-row-with-maximum-ones) |
@@ -375,6 +377,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0435-non-overlapping-intervals](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0455-assign-cookies) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -387,6 +390,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0023-merge-k-sorted-lists](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Bucket Sort
 |  |
@@ -513,6 +517,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0897-increasing-order-search-tree](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0897-increasing-order-search-tree) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/1539-kth-missing-positive-number) |
