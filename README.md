@@ -224,6 +224,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2206-divide-array-into-equal-pairs) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2303-calculate-amount-paid-in-taxes](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2643-row-with-maximum-ones](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2643-row-with-maximum-ones) |
@@ -349,6 +350,7 @@ Problems are sourced from **LeetCode** and solved as part of continuous learning
 | [0054-spiral-matrix](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2303-calculate-amount-paid-in-taxes](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3360-stone-removal-game](https://github.com/Anunay-web/DSA-LeetCode-Java/tree/master/3360-stone-removal-game) |
 ## Counting
